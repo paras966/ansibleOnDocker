@@ -8,6 +8,3 @@ RUN echo 'service ssh start' >> /etc/bash.bashrc && echo 'systemctl enable ssh' 
 COPY "run.sh" .
 RUN ["chmod", "+x", "./run.sh"]
 CMD [ "./run.sh" ,"-D", "FOREGROUND"]
-
-
-https://www.linkedin.com/article/edit/7106922948380282882/
