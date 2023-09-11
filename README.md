@@ -23,5 +23,5 @@ docker run -it --name ansibleContainerServer1 ansible-server
 
 When creating a container, you will be prompted to enter the IP addresses of the nodes you wish to connect with the Ansible server. Start by specifying the number of nodes you want to connect, and then provide the individual IP addresses for each node.
 
-READ LINKED_IN Article for setting up - 
+READ LINKED_IN Article for setting up - https://www.linkedin.com/pulse/ansible-docker-building-lightweight-infrastructure-automation-patil
 
